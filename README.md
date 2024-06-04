@@ -30,11 +30,15 @@ Rosa-Nvim is a personalized Neovim distribution that combines the flexibility of
 
 access the [PHOTOS](/assets/pages/photos.md).
 
-## Installation
+## Installation Requirements:
+-  [Lunarvim Website](https://www.lunarvim.org/docs/installation)
+- [GNU Stow](https://www.gnu.org/software/stow/)
 
- Ensure that you have already installed LunarVim by visiting [Lunarvim Website](https://www.lunarvim.org/docs/installation)
+- - -
 
-### Clone the repository:
+## Steps for Installation:
+
+### 1. Clone the Repository:
 
 ```bash
 git clone https://github.com/pedrorosa-dev/.dotfiles.git
@@ -42,29 +46,19 @@ git clone https://github.com/pedrorosa-dev/.dotfiles.git
 
 - Note: This repository contains my dotfiles, including configurations for Tmux, Zsh, and Powerlevel10k. For more details, explore the [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) repository.
 
-## Setting Up Rosa-Nvim
+## 2. Setting Up Rosa-Nvim
 
-1. Make sure you have `stow` installed.
-
-```bash
-sudo apt install stow
-```
-
-```bash
-
-brew install stow
-```
-
-2. Navigate to the `~/.dotfiles` directory.
-3. Execute the following commands:
+1. Navigate to the `~/.dotfiles` directory.
+2. Execute the following commands:
 
 #### **IMPORTANT**
 
 - Make sure you are inside the ~/.dotfiles directory before running the stow commands.
 
 
-
 ## To apply the Rosa-Nvim
+
+**Run these two commands**
 
 ```bash
 stow lvim
@@ -79,33 +73,12 @@ stow core
 
 
 
-## To start
+## To Start
 - open your terminal
 - and write **lvim**
 
 Note: You can create an alias as you wish, if by chance you use zsh you can check out [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) 
 
-## Customizing the Dashboard Personal Name
 
-1. Open Rosa-nvim. 
-2. Press `c` to open the dashboard menu.
-3. Navigate to the `dashboard.lua`. Local: `lua/user/dashboard.lua`
-4. Look for the `title` setting (usually set to "Welcome, Pedro Rosa").
-5. Change the title to your desired text.
-
-Alternatively, you can directly edit the `~/.config/lvim/config.lua` file and modify the `lua/user/dashboard.lua` setting there.
-
-## Customizing Notification Messages
-
-1. Open Rosa-nvim. 
-2. Press `c` to open the dashboard menu.
-3. Access `notify.lua`. Local:`lua/user/notify.lua`
-4. In that file, you'll find a welcome message. You can replace it with your preferred text or comment out the code to disable the notification.
-1. Access the `~/.config/lvim/config.lua` file.
-2. Look for the `lua/user/notify.lua` section.
-
-Alternatively, you can directly edit the `~/.config/lvim/config.lua` file and modify the `lua/user/notify.lua` setting there.
-
----
 
 **Feel free to explore and adapt Rosa-Nvim to your liking!** 🌟
