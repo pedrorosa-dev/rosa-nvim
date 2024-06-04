@@ -31,7 +31,7 @@ Rosa-Nvim is a personalized Neovim distribution that combines the flexibility of
 access the [PHOTOS](/assets/pages/photos.md).
 
 ## Installation Requirements:
--  [Lunarvim Website](https://www.lunarvim.org/docs/installation)
+-  [Lunarvim](https://www.lunarvim.org/docs/installation)
 - [GNU Stow](https://www.gnu.org/software/stow/)
 
 You can install stow using your Linux distribution's package manager. For example, on Ubuntu, use:
