@@ -4,6 +4,10 @@
 
 <img src="/assets/images/tela.png" alt="home screen" width="">
 
+
+# Coming Soon
+**Please note that there will soon be updates on shortcuts and tips on how to better use Rosa Neovim. Stay tuned for these enhancements!**
+
 ## Overview
 
 Rosa-Nvim is a personalized Neovim distribution that combines the flexibility of Neovim with the ready-made configurations and plugins from LunarVim. It focuses on practicality and performance, providing an enjoyable code editing experience.
