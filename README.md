@@ -15,7 +15,13 @@ Rosa-Nvim is a personalized Neovim distribution that combines the flexibility of
 - Language Server Protocol (LSP) integration
 - Treesitter support for advanced syntax highlighting
 - Customizable dashboard and notification messages
-
+- Multiple ways to access files
+- Easy shortcuts
+- Implemented artificial intelligence like Copilot and Codeium
+- Multiple themes
+- Lazygit
+- Gitsings
+- Linters
 ## Photos
 
 access the [PHOTOS](/assets/pages/photos.md).
