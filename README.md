@@ -1,5 +1,7 @@
 # Rosa-Nvim: A Custom Neovim Distribution
 
+#### **LICENSE:** This repository is licensed under the [MIT License](LICENSE).
+
 !Rosa-Nvim Logo
 
 ## Overview
