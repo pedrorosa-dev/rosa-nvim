@@ -85,21 +85,26 @@ stow core
 
 Note: You can create an alias as you wish, if by chance you use zsh you can check out [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) 
 
-## Customizing the Dashboard Title
+## Customizing the Dashboard personal name
 
 1. Open Rosa-nvim. 
 2. Press `c` to open the dashboard menu.
-3. Navigate to the "Dashboard" section.
+3. Navigate to the `dashboard.lua`. Local: `lua/user/dashboard.lua`
 4. Look for the `title` setting (usually set to "Welcome, Pedro Rosa").
 5. Change the title to your desired text.
 
-Alternatively, you can directly edit the `~/.config/lvim/config.lua` file and modify the `title` setting there.
+Alternatively, you can directly edit the `~/.config/lvim/config.lua` file and modify the `lua/user/dashboard.lua` setting there.
 
 ## Customizing Notification Messages
 
+1. Open Rosa-nvim. 
+2. Press `c` to open the dashboard menu.
+3. Access `notify.lua`. Local:`lua/user/notify.lua`
+4. In that file, you'll find a welcome message. You can replace it with your preferred text or comment out the code to disable the notification.
 1. Access the `~/.config/lvim/config.lua` file.
 2. Look for the `lua/user/notify.lua` section.
-3. In that file, you'll find a welcome message. You can replace it with your preferred text or comment out the code to disable the notification.
+
+Alternatively, you can directly edit the `~/.config/lvim/config.lua` file and modify the `lua/user/notify.lua` setting there.
 
 ---
 
