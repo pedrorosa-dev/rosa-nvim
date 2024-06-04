@@ -85,7 +85,7 @@ stow core
 
 Note: You can create an alias as you wish, if by chance you use zsh you can check out [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) 
 
-## Customizing the Dashboard personal name
+## Customizing the Dashboard Personal Name
 
 1. Open Rosa-nvim. 
 2. Press `c` to open the dashboard menu.
