@@ -30,7 +30,7 @@ access the [PHOTOS](/assets/pages/photos.md).
 git clone https://github.com/pedrorosa-dev/.dotfiles.git
 ```
 
-- Note: This repository contains my dotfiles, including configurations for Tmux, Zsh, and Powerlevel10k. For more details, explore the [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) .repository.
+- Note: This repository contains my dotfiles, including configurations for Tmux, Zsh, and Powerlevel10k. For more details, explore the [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) repository.
 
 ## Setting Up Rosa-Nvim
 
