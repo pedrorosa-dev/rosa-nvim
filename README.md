@@ -58,9 +58,11 @@ To apply the Rosa-Nvim
 
 ```bash
 stow lvim
+
+```
+```bash
 stow core
 ```
-
 ---
 
 ## Customizing the Dashboard Title
