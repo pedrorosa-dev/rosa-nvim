@@ -32,7 +32,7 @@ access the [PHOTOS](/assets/pages/photos.md).
 
 ## Installation
 
-1. Ensure that you have already installed LunarVim by visiting [Lunarvim Website](https://www.lunarvim.org/docs/installation)
+ Ensure that you have already installed LunarVim by visiting [Lunarvim Website](https://www.lunarvim.org/docs/installation)
 
 ### Clone the repository:
 
