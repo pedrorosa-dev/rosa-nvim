@@ -94,4 +94,6 @@ Note: You can create an alias as you wish, if by chance you use zsh you can chec
 
 
 
+- - -
+
 **Feel free to explore and adapt Rosa-Nvim to your liking!** 🌟
