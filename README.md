@@ -2,7 +2,7 @@
 
 #### **LICENSE:** This repository is licensed under the [MIT License](LICENSE).
 
-<img src="./images/tela.png" alt="home screen" width="400">
+<img src="/assets/images/tela.png" alt="home screen" width="">
 
 ## Overview
 
@@ -15,6 +15,10 @@ Rosa-Nvim is a personalized Neovim distribution that combines the flexibility of
 - Language Server Protocol (LSP) integration
 - Treesitter support for advanced syntax highlighting
 - Customizable dashboard and notification messages
+
+## Photos
+
+access the [PHOTOS](/assets/pages/photos.md).
 
 ## Installation
 
@@ -31,6 +35,16 @@ git clone https://github.com/pedrorosa-dev/.dotfiles.git
 ## Setting Up Rosa-Nvim
 
 1. Make sure you have `stow` installed.
+
+```bash
+sudo apt install stow
+```
+
+```bash
+
+brew install stow
+```
+
 2. Navigate to the `~/.dotfiles` directory.
 3. Execute the following commands:
 
@@ -40,21 +54,12 @@ git clone https://github.com/pedrorosa-dev/.dotfiles.git
 
 ---
 
-2. Use `stow` to create symbolic links for the desired configurations. For example:
+To apply the Rosa-Nvim
 
-   ```bash
-   stow lvim
-   stow core
-   stow zsh
-   stow p10k
-   stow tmux
-   ```
-
-3. To apply all configurations at once:
-
-   ```bash
-   stow .
-   ```
+```bash
+stow lvim
+stow core
+```
 
 ---
 
@@ -74,4 +79,6 @@ Alternatively, you can directly edit the `~/.config/lvim/config.lua` file and mo
 2. Look for the `lua/user/notify.lua` section.
 3. In that file, you'll find a welcome message. You can replace it with your preferred text or comment out the code to disable the notification.
 
-Feel free to explore and adapt Rosa-Nvim to your liking! 🌟
+---
+
+**Feel free to explore and adapt Rosa-Nvim to your liking!** 🌟
