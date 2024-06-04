@@ -34,7 +34,7 @@ access the [PHOTOS](/assets/pages/photos.md).
 -  [Lunarvim Website](https://www.lunarvim.org/docs/installation)
 - [GNU Stow](https://www.gnu.org/software/stow/)
 
-You can install it using your Linux distribution's package manager. For example, on Ubuntu, use:
+You can install stow using your Linux distribution's package manager. For example, on Ubuntu, use:
 
 ```bash
 sudo apt install stow
