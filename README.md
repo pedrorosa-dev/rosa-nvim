@@ -71,6 +71,10 @@ stow core
 ```
 ---
 
+**Done, now enjoy your Rosa-Nvim like never before**
+
+--- 
+
 ## Customizing the Dashboard Title
 
 1. Open Neovim.
