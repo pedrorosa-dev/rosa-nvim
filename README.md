@@ -58,9 +58,9 @@ brew install stow
 
 - Make sure you are inside the ~/.dotfiles directory before running the stow commands.
 
----
 
-To apply the Rosa-Nvim
+
+## To apply the Rosa-Nvim
 
 ```bash
 stow lvim
@@ -73,11 +73,17 @@ stow core
 
 **Done, now enjoy your Rosa-Nvim like never before**
 
---- 
+
+
+## To start
+- open your terminal
+- and write **lvim**
+
+Note: You can create an alias as you wish, if by chance you use zsh you can check out [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) 
 
 ## Customizing the Dashboard Title
 
-1. Open Neovim.
+1. Open Rosa-nvim. 
 2. Press `c` to open the dashboard menu.
 3. Navigate to the "Dashboard" section.
 4. Look for the `title` setting (usually set to "Welcome, Pedro Rosa").
