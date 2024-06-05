@@ -74,12 +74,10 @@ git clone https://github.com/pedrorosa-dev/.dotfiles.git
 ## 2. Remove paths:
 
 ```bash
-rm -rf ~/.config/lvim
+
+rm -rf ~/.config/lvim && rm -rf ~/.local/share/lunarvim/lvim/lua/lvim/core
 ```
 
-```bash
-rm -rf ~/.local/share/lunarvim/lvim/lua/lvim/core
-```
 ## 3. Setting Up Rosa-Nvim:
 
 1. Navigate to the `~/.dotfiles` directory.
