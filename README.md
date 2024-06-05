@@ -100,7 +100,6 @@ rm -rf ~/.config/lvim && rm -rf ~/.local/share/lunarvim/lvim/lua/lvim/core
 ```bash
 stow lvim && stow core
 
-
 ```
 
 
