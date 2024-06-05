@@ -59,7 +59,17 @@ git clone https://github.com/pedrorosa-dev/.dotfiles.git
 
 - Note: This repository contains my dotfiles, including configurations for Tmux, Zsh, and Powerlevel10k. For more details, explore the [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) repository.
 
-## 2. Setting Up Rosa-Nvim
+
+## 2 Remove paths
+
+```bash
+rm -rf ~/.config/lvim
+```
+
+```bash
+rm -rf ~/.local/share/lunarvim/lvim/lua/lvim/core
+```
+## 3. Setting Up Rosa-Nvim
 
 1. Navigate to the `~/.dotfiles` directory.
 2. Execute the following commands:
