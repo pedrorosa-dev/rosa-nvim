@@ -95,16 +95,14 @@ rm -rf ~/.config/lvim && rm -rf ~/.local/share/lunarvim/lvim/lua/lvim/core
 
 ## 4. To apply the Rosa-Nvim:
 
-**Run these two commands**
+**Run the command**
 
 ```bash
-stow lvim
+stow lvim && stow core
+
 
 ```
-```bash
-stow core
-```
----
+
 
 **Done, now enjoy your Rosa-Nvim like never before**
 
