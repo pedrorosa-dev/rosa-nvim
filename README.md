@@ -36,7 +36,7 @@ access the [PHOTOS](/assets/pages/photos.md).
 - [Lunarvim](https://www.lunarvim.org/docs/installation)
 - [GNU Stow](https://www.gnu.org/software/stow/)
 
-Make sure to install Lunarvim by following the instructions available at [Lunarvim](https://www.lunarvim.org/docs/installation).
+Make sure to install **Lunarvim** by following the instructions available at [Lunarvim](https://www.lunarvim.org/docs/installation).
 
 Additionally, you'll also need to have GNU Stow installed on your system. You can install Stow using your Linux distribution's package manager or Homebrew if you're using macOS.
 
