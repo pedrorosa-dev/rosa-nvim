@@ -10,7 +10,7 @@
 
 ## Overview:
 
-Rosa-Nvim is a personalized Neovim distribution that combines the flexibility of Neovim with the ready-made configurations and plugins from LunarVim. It focuses on practicality and performance, providing an enjoyable code editing experience.
+Rosa-Nvim is a personalized Neovim distribution that combines the flexibility of Neovim with the ready-made configurations and plugins from [Lunarvim](https://www.lunarvim.org/). It focuses on practicality and performance, providing an enjoyable code editing experience.
 
 ## Features:
 
