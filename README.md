@@ -74,7 +74,7 @@ rm -rf ~/.local/share/lunarvim/lvim/lua/lvim/core
 1. Navigate to the `~/.dotfiles` directory.
 2. Execute the following commands:
 
-#### **IMPORTANT**
+#### **IMPORTANT:**
 
 - Make sure you are inside the ~/.dotfiles directory before running the stow commands.
 
