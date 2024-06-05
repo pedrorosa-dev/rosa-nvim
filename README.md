@@ -34,19 +34,30 @@ access the [PHOTOS](/assets/pages/photos.md).
 -  [Lunarvim](https://www.lunarvim.org/docs/installation)
 - [GNU Stow](https://www.gnu.org/software/stow/)
 
-You can install stow using your Linux distribution's package manager. For example, on Ubuntu, use:
+You can install stow using your Linux distribution's package manager and homebrew for MacOS.
+
+
+## Examples:
+
+**Ubuntu**
 
 ```bash
 sudo apt install stow
 ```
 
-On MacOS, using homebrew
+**MacOS**
 
 ```bash
 
 brew install stow
-
 ```
+
+**Arch linux**
+
+```bash
+sudo pacman -Syu stow
+```
+
 - - -
 
 ## Steps for Installation:
