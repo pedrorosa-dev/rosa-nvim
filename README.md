@@ -5,14 +5,14 @@
 <img src="/assets/images/tela.png" alt="home screen" width="">
 
 
-# Coming Soon
+# Coming Soon:
 **Please note that there will soon be updates on shortcuts and tips on how to better use Rosa Neovim. Stay tuned for these enhancements!**
 
-## Overview
+## Overview:
 
 Rosa-Nvim is a personalized Neovim distribution that combines the flexibility of Neovim with the ready-made configurations and plugins from LunarVim. It focuses on practicality and performance, providing an enjoyable code editing experience.
 
-## Features
+## Features:
 
 - Autocompletion for various programming languages
 - Integrated file explorer
@@ -26,7 +26,7 @@ Rosa-Nvim is a personalized Neovim distribution that combines the flexibility of
 - Lazygit
 - Gitsings
 - Linters
-## Photos
+## Photos:
 
 access the [PHOTOS](/assets/pages/photos.md).
 
@@ -60,7 +60,7 @@ git clone https://github.com/pedrorosa-dev/.dotfiles.git
 - Note: This repository contains my dotfiles, including configurations for Tmux, Zsh, and Powerlevel10k. For more details, explore the [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) repository.
 
 
-## 2 Remove paths:
+## 2. Remove paths:
 
 ```bash
 rm -rf ~/.config/lvim
