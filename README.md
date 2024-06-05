@@ -79,7 +79,7 @@ rm -rf ~/.local/share/lunarvim/lvim/lua/lvim/core
 - Make sure you are inside the ~/.dotfiles directory before running the stow commands.
 
 
-## To apply the Rosa-Nvim
+## 4. To apply the Rosa-Nvim
 
 **Run these two commands**
 
