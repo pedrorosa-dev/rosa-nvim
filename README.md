@@ -100,10 +100,13 @@ stow core
 - open your terminal
 - and write **lvim**
 
-Note: You can create an alias as you wish, if by chance you use zsh you can check out [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) 
+**Note: You can create an alias as you wish, if by chance you use zsh you can check out [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles)**
 
+### **If you use Zsh, you can add this command to your `.zshrc` file:**
 
-
+```bash
+alias rn='lvim'
+```
 - - -
 
 **Feel free to explore and adapt Rosa-Nvim to your liking!** 🌟
