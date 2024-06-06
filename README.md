@@ -33,6 +33,7 @@ access the [PHOTOS](/assets/pages/photos.md).
 - - -
 
 ## Installation Requirements:
+- [Neovim](https://neovim.io/)
 - [Lunarvim](https://www.lunarvim.org/docs/installation)
 - [GNU Stow](https://www.gnu.org/software/stow/)
 
