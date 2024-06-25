@@ -77,14 +77,14 @@ git clone https://github.com/pedrorosa-dev/.dotfiles.git
 - Note: This repository contains my dotfiles, including configurations for Tmux, Zsh, and Powerlevel10k. For more details, explore the [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) repository.
 
 
-## 2. Remove paths:
+### 2. Remove paths:
 
 ```bash
 
 rm -rf ~/.config/lvim && rm -rf ~/.local/share/lunarvim/lvim/lua/lvim/core
 ```
 
-## 3. Setting Up Rosa-Nvim:
+### 3. Setting Up Rosa-Nvim:
 
 1. Navigate to the `~/.dotfiles` directory.
 2. Execute the following commands:
@@ -94,7 +94,7 @@ rm -rf ~/.config/lvim && rm -rf ~/.local/share/lunarvim/lvim/lua/lvim/core
 - Make sure you are inside the ~/.dotfiles directory before running the stow commands.
 
 
-## 4. To apply the Rosa-Nvim:
+### 4. To apply the Rosa-Nvim:
 
 **Run the command**
 
