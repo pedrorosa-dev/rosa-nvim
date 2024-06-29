@@ -4,8 +4,8 @@
 
 <img src="/assets/images/tela.png" alt="home screen" width="">
 
-
 # Coming Soon:
+
 **Please note that there will soon be updates on shortcuts and tips on how to better use Rosa Neovim. Stay tuned for these enhancements!**
 
 ## Overview:
@@ -26,13 +26,15 @@ Rosa-Nvim is a personalized Neovim distribution that combines the flexibility of
 - Lazygit
 - Gitsings
 - Linters
+
 ## Photos:
 
 access the [PHOTOS](/assets/pages/photos.md).
 
-- - -
+---
 
 ## Installation Requirements:
+
 - [Neovim](https://neovim.io/)
 - [Lunarvim](https://www.lunarvim.org/docs/installation)
 - [GNU Stow](https://www.gnu.org/software/stow/)
@@ -40,8 +42,6 @@ access the [PHOTOS](/assets/pages/photos.md).
 Make sure to install **Lunarvim** by following the instructions available at [Lunarvim](https://www.lunarvim.org/docs/installation).
 
 Additionally, you'll also need to have GNU Stow installed on your system. You can install Stow using your Linux distribution's package manager or Homebrew if you're using macOS.
-
-
 
 ## Examples:
 
@@ -64,7 +64,7 @@ brew install stow
 sudo pacman -Syu stow
 ```
 
-- - -
+---
 
 ## Steps for Installation:
 
@@ -75,7 +75,6 @@ git clone https://github.com/pedrorosa-dev/.dotfiles.git
 ```
 
 - Note: This repository contains my dotfiles, including configurations for Tmux, Zsh, and Powerlevel10k. For more details, explore the [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) repository.
-
 
 ### 2. Remove paths:
 
@@ -93,7 +92,6 @@ rm -rf ~/.config/lvim && rm -rf ~/.local/share/lunarvim/lvim/lua/lvim/core
 
 - Make sure you are inside the ~/.dotfiles directory before running the stow commands.
 
-
 ### 4. To apply the Rosa-Nvim:
 
 **Run the command**
@@ -103,12 +101,10 @@ stow lvim && stow core
 
 ```
 
-
 **Done, now enjoy your Rosa-Nvim like never before**
 
-
-
 ## To Start:
+
 - open your terminal
 - and write **lvim**
 
@@ -119,6 +115,7 @@ stow lvim && stow core
 ```bash
 alias rn='lvim'
 ```
-- - -
+
+---
 
 **Feel free to explore and adapt Rosa-Nvim to your liking!** 🌟
