@@ -97,7 +97,7 @@ rm -rf ~/.config/lvim && rm -rf ~/.local/share/lunarvim/lvim/lua/lvim/core
 **Run the command**
 
 ```bash
-stow lvimRoot && stow LvimUser
+stow rnRoot && stow rnUser
 
 ```
 
