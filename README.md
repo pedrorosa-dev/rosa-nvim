@@ -76,7 +76,7 @@ git clone https://github.com/pedrorosa-dev/.dotfiles.git
 
 - Note: This repository contains my dotfiles, including configurations for Tmux, Zsh, and Powerlevel10k. For more details, explore the [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) repository.
 
-### 2. Remove paths:
+### 2. Remove existing configuration files (if necessary): Before applying the configurations, ensure that the original files are removed to avoid conflicts:
 
 ```bash
 
