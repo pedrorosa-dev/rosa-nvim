@@ -71,7 +71,7 @@ sudo pacman -Syu stow
 ### 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/pedrorosa-dev/.dotfiles.git
+git clone https://github.com/pedrorcruzz/.dotfiles.git
 ```
 
 - Note: This repository contains my dotfiles, including configurations for Tmux, Zsh, and Powerlevel10k. For more details, explore the [my Dotfiles](https://github.com/pedrorosa-dev/.dotfiles) repository.
